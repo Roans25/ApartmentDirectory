@@ -1,0 +1,32 @@
+22 Hub on Campus///437 N Frances St///2///2540.00///8448396020
+31 Hub on Campus///437 N Frances St///3///3240.00///8448396020
+47 Hub on Campus///437 N Frances St///4///4200.00///8448396020
+25 Peloton Residences///1008 S Park St///1///1549.00///8447402016
+18 Peloton Residences///1008 S Park St///2///2399.00///8447402016
+12 Compass///622 W Wilson St///1///1200.00///6083026759
+29 Compass///622 W Wilson St///2///1600.00///6083026759
+15 Madison Apartments///5440 Congress Ave///1///1350.00///8887715028
+21 Madison Apartments///5440 Congress Ave///2///1610.00///8887715028
+36 Madison Apartments///5440 Congress Ave///3///1805.00///8887715028
+17 Pressman///117 South Hamilton St///1///1690.00///6087097815
+24 Pressman///117 South Hamilton St///2///2390.00///6087097815
+33 Pressman///117 South Hamilton St///3///3160.00///6087097815
+16 Longfellow Lofts///1015 Mound St///1///1535.00///8442616218
+26 Longfellow Lofts///1015 Mound St///2///2970.00///8442616218
+13 Regent///1402 Regent St///1///900.00///8886069760
+27 Regent///1402 Regent St///2///1650.00///8886069760
+33 Regent///1402 Regent St///3///2350.00///8886069760
+19 Fair Oaks///144 S Fair Oaks Ave///1///840.00///8443729630
+28 Fair Oaks///144 S Fair Oaks Ave///2///1240.00///8443729630
+11 Ovation 309///309 W Johnson St///1///2995.00///8447939335
+28 Ovation 309///309 W Johnson St///2///3895.00///8447939335
+15 Domain///409 W Johnson St///1///1400.00///8554723448
+25 Domain///409 W Johnson St///2///2385.00///8554723448
+12 Weston Place///625 N Segoe Rd///1///1950.00///8442038966
+23 Weston Place///625 N Segoe Rd///2///2560.00///8442038966
+32 Weston Place///625 N Segoe Rd///3///3957.00///8442038966
+13 McKenzie Place///2221 Sherman Ave///1///1625.00///6082919227
+14 Madison Mark///132-E E Wilson St///1///1070.00///8446840234
+24 Madison Mark///132-E E Wilson St///2///1225.00///8446840234
+23 Testing Apartments///W Johnson Street///2///1239.0///8094911223
+Allen House1010///2130 University Ave.///2///999.0///31934452345
